@@ -27,7 +27,7 @@ export default function Footer() {
               <Shield size={18} style={{ marginRight: 8 }} />
               Try the Demo
             </button>
-            <button onClick={() => alert('GitHub repository coming soon')} className="btn btn-secondary">
+            <button onClick={() => window.open('https://github.com/TiyaGarg06/SafeLend', '_blank')} className="btn btn-secondary">
               <Github size={18} style={{ marginRight: 8 }} />
               View on GitHub
             </button>

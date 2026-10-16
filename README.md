@@ -5,6 +5,7 @@
 
 **Verify any loan app in 10 seconds, before it verifies you.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=vercel&logoColor=fff)](https://safelend.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/TiyaGarg06/SafeLend)
 [![Build $ Bank 2026](https://img.shields.io/badge/Build_%24_Bank-2026-orange?style=flat-square)](https://github.com/TiyaGarg06/SafeLend)
 
@@ -40,7 +41,7 @@ Fake loan apps target financially stressed Indians — people who lack the time 
 
 ## Interactive Demo
 
-The interactive demo lets you experience the bot's verdict flow through four simulated scenarios:
+The live site at **[safelend.vercel.app](https://safelend.vercel.app/)** lets you experience the bot's verdict flow through four simulated scenarios:
 
 | Scenario | What Happens |
 |----------|-------------|
